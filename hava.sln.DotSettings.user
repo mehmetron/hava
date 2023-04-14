@@ -1,0 +1,59 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=14790149_002D9f53_002D4ca4_002D9592_002Dcd5af5f9684d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PutHome_Returns_NoContentResult_With_Valid_Input" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.HomeControllerTests.Put&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.ZoneControllerTests.Get.GetZones_Returns_HomeZones&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.ZoneControllerTests.Get.GetHome_ReturnsHomeGet_WhenHomeFound&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.ZoneControllerTests.Get.GetHome_ReturnsNotFound_WhenHomeNotFound&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.ZoneControllerTests.Delete.DeleteZone_ReturnsNotFound_WhenZoneDoesNotExist&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.ZoneControllerTests.Delete.DeleteZone_RemovesZoneFromDatabase&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.ZoneControllerTests.Delete&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.ZoneControllerTests.Post&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.ZoneControllerTests.ZoneControllerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.ZoneControllerTests.Put&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.DeviceControllerTests.Get.GetDevices_ReturnsDevicesInZone&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.DeviceControllerTests.Get.GetDevice_ReturnsDevice&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.DeviceControllerTests.Get.GetDevice_ReturnsNotFound_WhenDeviceNotFound&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.DeviceControllerTests.Post&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFolder&gt;490010C9-B65E-4A55-92FF-DA1EF72AF458/d:ZoneControllerTests&lt;/ProjectFolder&gt;
+    &lt;ProjectFolder&gt;490010C9-B65E-4A55-92FF-DA1EF72AF458/d:HomeControllerTests&lt;/ProjectFolder&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=185341f8_002D860a_002D4388_002Da9c2_002D710466c91bc5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AuthenticationControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/kafka/Desktop/hava/Testing" Presentation="&amp;lt;Testing&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=35f1fb24_002D600c_002D4418_002D8a7f_002D69cfd9877c2c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PostDevice_ReturnsBadRequest_WhenModelStateIsInvalid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/kafka/Desktop/hava/Testing" Presentation="&amp;lt;Testing&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=48b5ef9e_002D363c_002D445b_002D8f84_002D6599c5e1a1e3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BananaTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Tester.AuthenticateControllerTest.Register_user_test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Tester.AuthenticateControllerTest.Login_user_test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=685e1e1f_002D5a4d_002D4586_002Da026_002D1a686cc5c7f8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetCurrentEnvironments_ReturnsCurrentEnvironmentsInZone" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.CurrentEnvironmentTests.Testing.CurrentEnvironmentControllerTests.Get.GetCurrentEnvironments_ReturnsCurrentEnvironmentsInZone&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8fb8fad4_002D3cf3_002D4ddb_002D9b4a_002Db356f5273c62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Login_user_test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Tester.AuthenticateControllerTest.Register_user_test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Tester.AuthenticateControllerTest.Login_user_test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Tester.HomeControllerTest.CreateHomeTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Tester.HomeControllerTest.DeleteHomeTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Tester.HomeControllerTest.GetUserHomesTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Tester.HomeControllerTest.GetHomeTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Tester.HomeControllerTest.PostHomeTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af5a6cb5_002Db153_002D4320_002D807d_002D8d5a2f0b4e29/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Create_Returns_CreatedAtActionResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/mehmetcureoglu/Desktop/hava/Testing" Presentation="&amp;lt;Testing&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f3457337_002Def73_002D40e7_002Da89c_002Dbafa96d5a0ff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Register_user_test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::490010C9-B65E-4A55-92FF-DA1EF72AF458::net7.0::Testing.JobControllerTests.Delete&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
